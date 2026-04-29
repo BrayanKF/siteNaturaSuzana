@@ -1,4 +1,4 @@
-# 🌿 Natura Suzana | Landing Page de Produtos
+🌿 Natura Suzana | Landing Page de Produtos
 
 ## 📌 Sobre o Projeto
 Este projeto consiste no desenvolvimento de uma landing page voltada para apresentação de produtos, com foco em organização visual, responsividade e experiência do usuário.
