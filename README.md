@@ -1,4 +1,4 @@
-#🌿 Natura Suzana | Landing Page de Produtos
+# 🌿 Natura Suzana | Landing Page de Produtos
 
 ## 📌 Sobre o Projeto
 Este projeto consiste no desenvolvimento de uma landing page voltada para apresentação de produtos, com foco em organização visual, responsividade e experiência do usuário.
@@ -35,3 +35,13 @@ Aplicar, na prática, conceitos fundamentais de desenvolvimento front-end, como:
 O projeto foi desenvolvido com foco em adaptação para diferentes dispositivos, garantindo uma boa experiência tanto em telas menores (mobile) quanto em desktops.
 
 ---
+
+## 📸 Preview
+*(adicione aqui prints do projeto — isso aumenta MUITO o impacto)*
+
+---
+
+## ▶️ Como executar o projeto
+1. Clone este repositório:
+```bash
+git clone https://github.com/BrayanKF/siteNaturaSuzana.git
