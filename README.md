@@ -44,4 +44,4 @@ O projeto foi desenvolvido com foco em adaptação para diferentes dispositivos,
 ## ▶️ Como executar o projeto
 1. Clone este repositório:
 ```bash
-git clone https://github.com/BrayanKF/siteNaturaSuzana.git
+git clone https://github.com/BrayanKF/siteNatura.git
